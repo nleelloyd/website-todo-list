@@ -1,0 +1,23 @@
+{
+  "name": "website-todo-list",
+  "version": "1.0.0",
+  "description": "Website To do ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-synch start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nleelloyd/website-todo-list.git"
+  },
+  "author": "Neil Lloyd <nleelloyd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nleelloyd/website-todo-list/issues"
+  },
+  "homepage": "https://github.com/nleelloyd/website-todo-list#readme",
+  "dependencies": {
+    "browser-sync": "^3.0.2"
+  }
+}
